@@ -4,5 +4,4 @@ A simple flutter app that queries the zenquotes API for a random motivational qu
 
 ## ScreenShots
 
-![image1](screenshots/1.png) ![image1](screenshots/2.png) ![image1](screenshots/3.png) ![image1](screenshots/4.png) ![image1](screenshots/5.png) 
-
+<img src = "screenshots/1.png"> <img src = "screenshots/2.png"> <img src = "screenshots/3.png"> <img src = "screenshots/4.png"> <img src = "screenshots/5.png"> 
